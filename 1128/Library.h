@@ -1,0 +1,20 @@
+#pragma once
+#include <SDL.h>
+#include <SDL_image.h>
+#include <string>
+#include <sstream>
+#include <functional>
+#include <vector>
+#include <time.h>
+#include <algorithm>
+
+#include "CollectObj.h"
+#include "Collider.h"
+#include "Core.h"
+#include "Fps_Counter.h"
+#include "Hitbox.h"
+#include "Input.h"
+#include "Obstacle.h"
+#include "offset.h"
+#include "Player.h"
+#include "Timer.h"
